@@ -29,7 +29,7 @@ title:               'Samarul'
 description:         'using Lagrange theme'
 author:              'Samarul'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://samarul.tk
+url: https://samarul.ml
 #remote_theme: LeNPaul/Lagrange
 #remote_theme: samarulmeu/mylagrange
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
