@@ -12,4 +12,4 @@ TESTE NOI IAR SI IAR din nouar si iar
 https://www.netlify.com/
 Something new about nothing
 
-Temă de [Paul Le](https://github.com/LeNPaul/Lagrange) | Prezentat de           [Jekyll](https://jekyllrb.com/) | Găzduit de [Netlify](https://www.             netlify.com/) 
+Temă de [Paul Le](https://github.com/LeNPaul/Lagrange) | Prezentat de [Jekyll](https://jekyllrb.com/) | Găzduit de [Netlify](https://www.netlify.com/) 
